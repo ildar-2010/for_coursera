@@ -32,7 +32,3 @@ with open(storage_path, 'r') as f:
 with open(storage_path, 'w') as f:
     json.dump(my_dict, f)
 
-
-    
-
-
